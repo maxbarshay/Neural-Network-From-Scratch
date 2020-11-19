@@ -1,4 +1,4 @@
-There are four files of interest in this submission.
+There are four files in this submission.
 
 The first is Feature Engineering.ipynb, which contains our feature engineering. 
 
